@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+crewai
+crewai-tools
+python-dotenv
+psycopg2-binary
+sqlalchemy
+redis
+openai
+pillow
+opencv-python
+pydub
+numpy
